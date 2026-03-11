@@ -1,0 +1,11 @@
+{ "now" : 1771150585.1,
+  "messages" : 12764,
+  "aircraft" : [
+    {"hex":"348085","flight":"AEA81ZL ","alt_baro":22825,"alt_geom":22475,"gs":418.0,"ias":292,"tas":402,"mach":0.668,"track":200.3,"track_rate":0.00,"roll":-0.4,"mag_heading":203.6,"baro_rate":2176,"geom_rate":1504,"squawk":"1000","nav_qnh":1013.6,"nav_altitude_mcp":30016,"nav_altitude_fms":37008,"nav_heading":203.2,"lat":48.994217,"lon":8.353835,"nic":8,"rc":186,"seen_pos":5.9,"version":2,"nic_baro":1,"nac_p":11,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":188,"seen":5.7,"rssi":-24.3},
+    {"hex":"4d0113","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":84,"seen":87.4,"rssi":-22.6},
+    {"hex":"4b194d","flight":"SWR8HG  ","alt_baro":23675,"alt_geom":23425,"gs":441.0,"ias":290,"tas":406,"mach":0.676,"track":180.0,"track_rate":0.00,"roll":0.0,"mag_heading":181.2,"baro_rate":-2304,"geom_rate":-2336,"squawk":"0526","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":15008,"lat":48.722038,"lon":8.518163,"nic":8,"rc":186,"seen_pos":1.6,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1926,"seen":0.0,"rssi":-19.4},
+    {"hex":"4bb141","alt_baro":35000,"category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1217,"seen":32.5,"rssi":-27.5},
+    {"hex":"3c64a2","flight":"DLH06J  ","alt_baro":27425,"alt_geom":26400,"gs":488.7,"ias":318,"tas":458,"mach":0.780,"track":199.7,"track_rate":0.00,"roll":0.0,"mag_heading":202.9,"baro_rate":1408,"geom_rate":1280,"squawk":"0134","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":31008,"lat":48.654397,"lon":8.152000,"nic":8,"rc":186,"seen_pos":25.4,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2066,"seen":2.3,"rssi":-27.3},
+    {"hex":"4b0895","flight":"HBDGN   ","alt_baro":12000,"squawk":"1275","mlat":[],"tisb":[],"messages":1366,"seen":1.1,"rssi":-22.8}
+  ]
+}

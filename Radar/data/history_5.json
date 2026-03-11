@@ -1,0 +1,12 @@
+{ "now" : 1771150044.4,
+  "messages" : 5586,
+  "aircraft" : [
+    {"hex":"4b161a","flight":"SWR2WX  ","alt_baro":25050,"alt_geom":24825,"gs":418.0,"ias":270,"tas":388,"mach":0.648,"track":190.5,"track_rate":0.00,"roll":-0.2,"mag_heading":194.1,"baro_rate":-2112,"geom_rate":-2080,"squawk":"5664","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":18016,"lat":48.678232,"lon":8.715772,"nic":8,"rc":186,"seen_pos":10.6,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1008,"seen":0.2,"rssi":-24.1},
+    {"hex":"4080a4","alt_baro":37000,"alt_geom":36325,"gs":495.2,"ias":255,"tas":450,"mach":0.788,"track":127.3,"track_rate":0.00,"roll":0.2,"mag_heading":123.6,"baro_rate":0,"geom_rate":64,"squawk":"3464","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_altitude_fms":37008,"nav_heading":122.3,"lat":48.477127,"lon":9.026325,"nic":8,"rc":186,"seen_pos":48.1,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":669,"seen":2.5,"rssi":-25.8},
+    {"hex":"3c664c","flight":"DLH99F  ","alt_baro":25925,"alt_geom":25375,"gs":467.8,"ias":305,"tas":440,"mach":0.740,"track":199.9,"track_rate":0.00,"roll":0.0,"mag_heading":203.2,"baro_rate":1088,"geom_rate":1088,"squawk":"1000","category":"A0","nav_qnh":1017.0,"nav_altitude_mcp":31008,"lat":48.700158,"lon":8.180405,"nic":8,"rc":186,"seen_pos":0.5,"version":0,"nac_p":8,"nac_v":0,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":1659,"seen":0.2,"rssi":-19.2},
+    {"hex":"4b1699","alt_baro":21175,"version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":132,"seen":22.3,"rssi":-25.7},
+    {"hex":"0100a2","alt_baro":40925,"squawk":"2506","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":780,"seen":14.1,"rssi":-26.8},
+    {"hex":"3c0ac6","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":311,"seen":86.2,"rssi":-25.8},
+    {"hex":"4b17e3","alt_baro":22750,"alt_geom":22500,"gs":414.3,"ias":282,"mach":0.648,"track":190.0,"mag_heading":192.5,"baro_rate":-2016,"geom_rate":-1984,"squawk":"1131","category":"A3","nav_altitude_fms":10000,"lat":48.604167,"lon":8.688089,"nic":8,"rc":186,"seen_pos":59.1,"version":2,"nic_baro":1,"nac_p":11,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1027,"seen":54.6,"rssi":-25.9}
+  ]
+}

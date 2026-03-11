@@ -1,0 +1,12 @@
+{ "now" : 1771150675.2,
+  "messages" : 15177,
+  "aircraft" : [
+    {"hex":"4ca251","flight":"RYR3MB  ","alt_baro":36000,"alt_geom":35350,"gs":382.8,"ias":254,"tas":436,"mach":0.768,"track":313.0,"track_rate":0.00,"roll":0.0,"mag_heading":312.0,"baro_rate":-64,"geom_rate":-64,"squawk":"0603","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_altitude_fms":36000,"nav_heading":311.5,"lat":48.549408,"lon":8.611873,"nic":7,"rc":371,"seen_pos":21.0,"version":0,"nic_baro":1,"nac_p":7,"nac_v":1,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":245,"seen":16.7,"rssi":-25.8},
+    {"hex":"348085","flight":"AEA81ZL ","alt_baro":25275,"alt_geom":24850,"gs":432.4,"ias":287,"tas":412,"mach":0.692,"track":199.7,"track_rate":0.00,"roll":0.0,"mag_heading":204.1,"baro_rate":1664,"geom_rate":1664,"squawk":"1000","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":30016,"nav_altitude_fms":37008,"nav_heading":203.9,"lat":48.836137,"lon":8.266272,"nic":8,"rc":186,"seen_pos":10.2,"version":2,"nic_baro":1,"nac_p":11,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":874,"seen":8.9,"rssi":-20.4},
+    {"hex":"4d0113","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":84,"seen":177.5,"rssi":-22.6},
+    {"hex":"4b194d","flight":"SWR8HG  ","alt_baro":20300,"alt_geom":20125,"gs":412.0,"ias":292,"tas":388,"mach":0.640,"track":180.0,"track_rate":0.00,"roll":-0.2,"mag_heading":179.1,"baro_rate":-2368,"geom_rate":-2368,"squawk":"0526","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":15008,"nav_heading":180.7,"lat":48.542765,"lon":8.517440,"nic":8,"rc":186,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":3206,"seen":0.2,"rssi":-18.7},
+    {"hex":"4bb141","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1217,"seen":122.6,"rssi":-27.5},
+    {"hex":"3c64a2","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2079,"seen":63.5,"rssi":-28.9},
+    {"hex":"4b0895","flight":"HBDGN   ","alt_baro":12000,"squawk":"1275","mlat":[],"tisb":[],"messages":1553,"seen":52.5,"rssi":-25.9}
+  ]
+}
