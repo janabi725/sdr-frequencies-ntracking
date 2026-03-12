@@ -1,8 +1,0 @@
-{ "now" : 1771150434.9,
-  "messages" : 7730,
-  "aircraft" : [
-    {"hex":"4bb141","flight":"THY6    ","alt_baro":35000,"alt_geom":34400,"gs":522.9,"ias":283,"tas":474,"mach":0.828,"track":125.8,"roll":0.0,"mag_heading":121.8,"baro_rate":0,"geom_rate":0,"squawk":"5250","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":35008,"nav_heading":122.3,"lat":48.773338,"lon":8.523873,"nic":8,"rc":186,"seen_pos":45.7,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1096,"seen":3.9,"rssi":-24.9},
-    {"hex":"3c64a2","flight":"DLH06J  ","alt_baro":23950,"alt_geom":23650,"gs":475.1,"ias":324,"tas":450,"mach":0.752,"track":199.8,"track_rate":0.00,"roll":0.0,"mag_heading":202.7,"baro_rate":1408,"geom_rate":1312,"squawk":"0134","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":27008,"lat":48.917185,"lon":8.294967,"nic":8,"rc":186,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":138,"seen":0.2,"rssi":-19.4},
-    {"hex":"4b0895","flight":"HBDGN   ","alt_baro":12000,"squawk":"1275","mlat":[],"tisb":[],"messages":577,"seen":2.1,"rssi":-21.5}
-  ]
-}
